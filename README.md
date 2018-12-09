@@ -45,5 +45,5 @@
 鼠标左确认   右键消除<br>
 <br>
 <br>
-                                                                   by：ThreeFox
-																     QQ：2322424046
+														* by：ThreeFox<br>
+															* QQ：2322424046
